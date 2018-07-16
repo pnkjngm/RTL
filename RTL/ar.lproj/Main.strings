@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Next Page"; ObjectID = "FjW-F4-cWJ"; */
+"FjW-F4-cWJ.normalTitle" = "الصفحة التالية";
+
+/* Class = "UILabel"; text = "Welcome Guest"; ObjectID = "b81-QF-o7k"; */
+"b81-QF-o7k.text" = "ترحيب ضيف";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "iEv-Ew-yv9"; */
+"iEv-Ew-yv9.title" = "الصفحة الرئيسية";
+
+/* Class = "UIButton"; normalTitle = "Change the language"; ObjectID = "taY-mT-5Mm"; */
+"taY-mT-5Mm.normalTitle" = "تغيير اللغة";
